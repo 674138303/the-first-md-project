@@ -31,7 +31,7 @@
 #6.图片
 像构造一个链接一样，只需要在前面加！
 
-![图A](https://github.com/674138303/the-first-md-project/blob/master/%E7%AC%AC%E4%B8%80%E4%B8%AAmd%E6%A0%BC%E5%BC%8F%E6%96%87%E4%BB%B6.md/banner.jpg)
+![图A](https://github.com/674138303/the-first-md-project/banner.jpg)
 
 #7.代码段
 ```
